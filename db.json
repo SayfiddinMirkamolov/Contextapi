@@ -1,0 +1,28 @@
+{
+  "phones": [
+    {
+      "id": "2",
+      "name": "Galaxy S21",
+      "brand": "Samsung",
+      "price": 799
+    },
+    {
+      "id": "3",
+      "name": "Pixel 6",
+      "brand": "Google",
+      "price": 699
+    },
+    {
+      "id": "4",
+      "name": "OnePlus 9",
+      "brand": "OnePlus",
+      "price": 729
+    },
+    {
+      "id": "5",
+      "name": "Xperia 1 III",
+      "brand": "Sony",
+      "price": 1199
+    }
+  ]
+}
